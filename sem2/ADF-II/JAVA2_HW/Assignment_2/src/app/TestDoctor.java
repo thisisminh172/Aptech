@@ -14,6 +14,7 @@ public class TestDoctor {
             System.out.println("2. remove a doctor by id");
             System.out.println("3. Display level 2 doctor");
             System.out.println("4. Search doctor by name");
+            System.out.println("5. Exit");
             System.out.print("Choose your option: ");
             op = sc.nextLine().trim();
             switch (op) {
@@ -33,6 +34,8 @@ public class TestDoctor {
                     String drName = sc.nextLine().toLowerCase().trim();
                     m.display(drName);
                     break;
+                case "5":
+                    return;
                 default:
                     System.out.println("Invalid number");
             }

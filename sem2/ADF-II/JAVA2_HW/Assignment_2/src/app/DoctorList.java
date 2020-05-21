@@ -26,9 +26,14 @@ public class DoctorList {
             System.out.println("There is doctor in the list");
             return;
         }
-        if (drList.containsKey(drID)) {
-            drList.remove(drID);
+        if(drList.remove(drID)==null){
+            System.out.println(">>Khong tim thay bs co ma so "+drID);
+        }else{
+            System.out.println(">> Da xoa thanh cong <<");
         }
+//        if (drList.containsKey(drID)) {
+//            drList.remove(drID);
+//        }
     }
     
     public void display(){
@@ -40,8 +45,9 @@ public class DoctorList {
     }
     
     public void display(String drName){
-        for(Doctor item : drList.values()){
-            if(item.name.toLowerCase().contains(drName)){
+        for(Object item : drList.values()){
+            Doctor dr = (Doctor) item;// ep kieu doctor cho object item
+            if(dr.name.toLowerCase().contains(drName)){
                 System.out.println(item);
             }
         }

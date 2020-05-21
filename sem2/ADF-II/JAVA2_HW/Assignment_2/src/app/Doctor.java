@@ -24,8 +24,8 @@ public class Doctor {
         String idPat = "[D]\\d{2,4}";
         String namePat = "[a-z A-Z]{2,}";
         String levelPat = "(level 1|level 2|level 3)";
-        Pattern p;
-        Matcher m;
+        Pattern p = null;
+        Matcher m = null;
         while (true) {
             System.out.print("Enter doctor's id: ");
             id = sc.nextLine().trim();
