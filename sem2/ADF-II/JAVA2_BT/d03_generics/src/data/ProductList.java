@@ -38,17 +38,42 @@ public class ProductList {
             System.out.println(d);
         });
          */
-        
+
         //Cach 3: rut gon bt lamba: method referce
         prList.forEach(System.out::println);
     }
-    
-    public void display(String s){
+
+    public void display(String s) {
         if (prList.isEmpty()) {
             System.out.println("HT chua co du lieu");
             return;
         }
         //Stream<Product> prStream = prList.stream().filter(item -> item.name.toLowerCase().contains(s));
         prList.stream().filter(item -> item.name.toLowerCase().contains(s)).forEach(System.out::println);
+    }
+
+    String fname = "sanpham.data";
+
+    public void saveFile() {
+        try {
+            ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(fname));
+            oos.writeObject(prList);
+            oos.close();
+
+        } catch (Exception ex) {
+            System.out.println("Loi: " + ex.getMessage());
+        }
+
+    }
+
+    public void readFile() {
+        try {
+            ObjectInputStream iis = new ObjectInputStream(new FileInputStream(fname));
+            prList = (HashSet<Product>) iis.readObject();
+            iis.close();
+        } catch (Exception ex) {
+            System.out.println("Loi: " + ex.getMessage());
+        }
+
     }
 }
