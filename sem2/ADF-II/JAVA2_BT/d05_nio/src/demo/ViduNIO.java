@@ -16,7 +16,7 @@ public class ViduNIO {
         vd.readFile();
     }
     
-    String fname1 = "/home/minhl/Aptech/sem2/Aptech/sem2/ADF-II/JAVA2_BT/embothuoc.txt";
+    String fname1 = "E:\\Aptech\\Aptech\\sem2\\ADF-II\\JAVA2_BT\\hoaminzy.txt";
     
     void readFile(){
         //doc noi dung cua tap tin [embothuoc.txt] xuat len man hinh
