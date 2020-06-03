@@ -1,0 +1,2 @@
+B0001 , Java, 200, CUP
+B0002 , Adv Java OUP, 400, OUP
