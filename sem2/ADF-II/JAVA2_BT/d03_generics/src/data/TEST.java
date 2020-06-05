@@ -29,7 +29,7 @@ public class TEST {
                 case "2":
                     System.out.print("Enter id you want to delete: ");
                     String drID = sc.nextLine().trim();
-                    m.remove(drID);
+                    //m.remove(drID);
                     break;
                 case "3":
                     m.display();

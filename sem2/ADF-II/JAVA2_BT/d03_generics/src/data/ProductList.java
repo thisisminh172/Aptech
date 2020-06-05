@@ -49,7 +49,13 @@ public class ProductList {
             return;
         }
         //Stream<Product> prStream = prList.stream().filter(item -> item.name.toLowerCase().contains(s));
-        prList.stream().filter(item -> item.name.toLowerCase().contains(s)).forEach(System.out::println);
+     
+        long cnt = prList.stream().filter(item -> item.name.toLowerCase().contains(s)).count();
+        if(cnt == 0){
+            System.out.println("ko co");
+        }else{
+            prList.stream().filter(item -> item.name.toLowerCase().contains(s)).forEach(System.out::println);
+        }
     }
 
     String fname = "sanpham.data";
