@@ -1,0 +1,7 @@
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\bin\Debug\d02_ClassMethod.exe.config
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\bin\Debug\d02_ClassMethod.exe
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\bin\Debug\d02_ClassMethod.pdb
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\obj\Debug\d02_ClassMethod.csprojAssemblyReference.cache
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\obj\Debug\d02_ClassMethod.csproj.CoreCompileInputs.cache
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\obj\Debug\d02_ClassMethod.exe
+C:\aptech-bt\sem2\c#\AP\d02_ClassMethod\obj\Debug\d02_ClassMethod.pdb

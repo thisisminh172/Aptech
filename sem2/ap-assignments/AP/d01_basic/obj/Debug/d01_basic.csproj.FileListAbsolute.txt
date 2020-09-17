@@ -1,0 +1,7 @@
+C:\aptech-bt\sem2\c#\AP\d01_basic\bin\Debug\d01_basic.exe.config
+C:\aptech-bt\sem2\c#\AP\d01_basic\bin\Debug\d01_basic.exe
+C:\aptech-bt\sem2\c#\AP\d01_basic\bin\Debug\d01_basic.pdb
+C:\aptech-bt\sem2\c#\AP\d01_basic\obj\Debug\d01_basic.csproj.CoreCompileInputs.cache
+C:\aptech-bt\sem2\c#\AP\d01_basic\obj\Debug\d01_basic.exe
+C:\aptech-bt\sem2\c#\AP\d01_basic\obj\Debug\d01_basic.pdb
+C:\aptech-bt\sem2\c#\AP\d01_basic\obj\Debug\d01_basic.csprojAssemblyReference.cache

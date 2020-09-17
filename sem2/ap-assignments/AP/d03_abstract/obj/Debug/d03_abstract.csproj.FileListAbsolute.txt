@@ -1,0 +1,6 @@
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_abstract\obj\Debug\d03_abstract.csproj.CoreCompileInputs.cache
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_abstract\bin\Debug\d03_abstract.exe.config
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_abstract\bin\Debug\d03_abstract.exe
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_abstract\bin\Debug\d03_abstract.pdb
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_abstract\obj\Debug\d03_abstract.exe
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_abstract\obj\Debug\d03_abstract.pdb

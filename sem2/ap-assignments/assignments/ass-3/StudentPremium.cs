@@ -55,7 +55,7 @@ namespace ass_3
             Console.WriteLine($"Student's dob: {dob} ");
             Console.WriteLine($"Student's gender: {gender} ");
             Console.WriteLine($"Studnet's avg: {(markofObj + markofPrac) / 2}");
-
+            
         }
     }
 }

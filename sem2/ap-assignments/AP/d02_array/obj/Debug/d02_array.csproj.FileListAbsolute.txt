@@ -1,0 +1,7 @@
+C:\aptech-bt\sem2\c#\AP\d02_array\bin\Debug\d02_array.exe.config
+C:\aptech-bt\sem2\c#\AP\d02_array\bin\Debug\d02_array.exe
+C:\aptech-bt\sem2\c#\AP\d02_array\bin\Debug\d02_array.pdb
+C:\aptech-bt\sem2\c#\AP\d02_array\obj\Debug\d02_array.csprojAssemblyReference.cache
+C:\aptech-bt\sem2\c#\AP\d02_array\obj\Debug\d02_array.csproj.CoreCompileInputs.cache
+C:\aptech-bt\sem2\c#\AP\d02_array\obj\Debug\d02_array.exe
+C:\aptech-bt\sem2\c#\AP\d02_array\obj\Debug\d02_array.pdb

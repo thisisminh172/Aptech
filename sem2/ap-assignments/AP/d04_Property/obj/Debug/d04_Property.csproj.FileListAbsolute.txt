@@ -1,0 +1,7 @@
+C:\aptech-bt\sem2\c#\AP\d04_Property\bin\Debug\d04_Property.exe.config
+C:\aptech-bt\sem2\c#\AP\d04_Property\bin\Debug\d04_Property.exe
+C:\aptech-bt\sem2\c#\AP\d04_Property\bin\Debug\d04_Property.pdb
+C:\aptech-bt\sem2\c#\AP\d04_Property\obj\Debug\d04_Property.csprojAssemblyReference.cache
+C:\aptech-bt\sem2\c#\AP\d04_Property\obj\Debug\d04_Property.csproj.CoreCompileInputs.cache
+C:\aptech-bt\sem2\c#\AP\d04_Property\obj\Debug\d04_Property.exe
+C:\aptech-bt\sem2\c#\AP\d04_Property\obj\Debug\d04_Property.pdb

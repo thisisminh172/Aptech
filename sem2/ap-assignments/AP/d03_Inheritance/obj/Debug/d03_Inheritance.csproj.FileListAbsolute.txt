@@ -1,0 +1,7 @@
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\bin\Debug\d03_Inheritance.exe.config
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\bin\Debug\d03_Inheritance.exe
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\bin\Debug\d03_Inheritance.pdb
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\obj\Debug\d03_Inheritance.csprojAssemblyReference.cache
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\obj\Debug\d03_Inheritance.csproj.CoreCompileInputs.cache
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\obj\Debug\d03_Inheritance.exe
+D:\Desktops\aptech\Lybrary\hk2\AP-II\d03_Inheritance\obj\Debug\d03_Inheritance.pdb

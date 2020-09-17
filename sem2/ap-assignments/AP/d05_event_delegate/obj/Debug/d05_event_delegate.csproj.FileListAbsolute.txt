@@ -1,0 +1,6 @@
+C:\Aptech\sem2\ap-assignments\AP\d05_event_delegate\bin\Debug\d05_event_delegate.exe.config
+C:\Aptech\sem2\ap-assignments\AP\d05_event_delegate\bin\Debug\d05_event_delegate.exe
+C:\Aptech\sem2\ap-assignments\AP\d05_event_delegate\bin\Debug\d05_event_delegate.pdb
+C:\Aptech\sem2\ap-assignments\AP\d05_event_delegate\obj\Debug\d05_event_delegate.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\AP\d05_event_delegate\obj\Debug\d05_event_delegate.exe
+C:\Aptech\sem2\ap-assignments\AP\d05_event_delegate\obj\Debug\d05_event_delegate.pdb

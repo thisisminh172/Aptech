@@ -5,3 +5,10 @@ D:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.csprojAssemblyRe
 D:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.csproj.CoreCompileInputs.cache
 D:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.exe
 D:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.pdb
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\bin\Debug\ass-1.exe.config
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\bin\Debug\ass-1.exe
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\bin\Debug\ass-1.pdb
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.csprojAssemblyReference.cache
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.exe
+C:\Aptech\sem2\ap-assignments\assignments\ass-1\obj\Debug\ass-1.pdb

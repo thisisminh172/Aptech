@@ -1,0 +1,7 @@
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\bin\Debug\d05_collection_event.exe.config
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\bin\Debug\d05_collection_event.exe
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\bin\Debug\d05_collection_event.pdb
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\obj\Debug\d05_collection_event.csprojAssemblyReference.cache
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\obj\Debug\d05_collection_event.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\obj\Debug\d05_collection_event.exe
+C:\Aptech\sem2\ap-assignments\AP\d05_collection_event\obj\Debug\d05_collection_event.pdb
