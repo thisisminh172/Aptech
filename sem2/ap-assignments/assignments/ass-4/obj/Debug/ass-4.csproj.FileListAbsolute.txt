@@ -1,0 +1,7 @@
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\bin\Debug\ass-4.exe.config
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\bin\Debug\ass-4.exe
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\bin\Debug\ass-4.pdb
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\obj\Debug\ass-4.csprojAssemblyReference.cache
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\obj\Debug\ass-4.csproj.CoreCompileInputs.cache
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\obj\Debug\ass-4.exe
+D:\Aptech\sem2\ap-assignments\assignments\ass-4\obj\Debug\ass-4.pdb
