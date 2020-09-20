@@ -1,0 +1,7 @@
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\bin\Debug\d06_advconcept.exe.config
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\bin\Debug\d06_advconcept.exe
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\bin\Debug\d06_advconcept.pdb
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\obj\Debug\d06_advconcept.csprojAssemblyReference.cache
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\obj\Debug\d06_advconcept.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\obj\Debug\d06_advconcept.exe
+C:\Aptech\sem2\ap-assignments\assignments\d06_advconcept\obj\Debug\d06_advconcept.pdb

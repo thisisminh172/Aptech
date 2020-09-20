@@ -1,0 +1,7 @@
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\bin\Debug\d06_generic.exe.config
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\bin\Debug\d06_generic.exe
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\bin\Debug\d06_generic.pdb
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\obj\Debug\d06_generic.csprojAssemblyReference.cache
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\obj\Debug\d06_generic.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\obj\Debug\d06_generic.exe
+C:\Aptech\sem2\ap-assignments\assignments\d06_generic\obj\Debug\d06_generic.pdb
