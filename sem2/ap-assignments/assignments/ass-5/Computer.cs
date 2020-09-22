@@ -24,7 +24,7 @@ namespace ass_5
             get { return id; }
             set
             {
-                if (Regex.IsMatch(value, "^C\\d{3}\\[\\d{2}\\]$"))
+                if (Regex.IsMatch(value, "^C\\d{3,5}$"))
                 {
                     id = value;
                 }
@@ -53,6 +53,7 @@ namespace ass_5
 
         public int pUnitPrice
         {
+            get { return unitPrice; }
             set
             {
                 if (value >= 100 && value <= 3000)

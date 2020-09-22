@@ -1,0 +1,7 @@
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\bin\Debug\testiterator.exe.config
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\bin\Debug\testiterator.exe
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\bin\Debug\testiterator.pdb
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\obj\Debug\testiterator.csprojAssemblyReference.cache
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\obj\Debug\testiterator.csproj.CoreCompileInputs.cache
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\obj\Debug\testiterator.exe
+D:\Aptech\sem2\ap-assignments\assignments\testiterator\obj\Debug\testiterator.pdb
