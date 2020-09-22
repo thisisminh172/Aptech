@@ -1,0 +1,7 @@
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\bin\Debug\d07_adv.exe.config
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\bin\Debug\d07_adv.exe
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\bin\Debug\d07_adv.pdb
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\obj\Debug\d07_adv.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\obj\Debug\d07_adv.exe
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\obj\Debug\d07_adv.pdb
+C:\Aptech\sem2\ap-assignments\assignments\d07_adv\obj\Debug\d07_adv.csprojAssemblyReference.cache

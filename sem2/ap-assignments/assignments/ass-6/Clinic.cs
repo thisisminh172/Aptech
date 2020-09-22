@@ -9,7 +9,7 @@ using System.Collections;
 namespace ass_6
 {
     public delegate void DValid(string msg);
-    class Clinic : IEnumerable
+    public class Clinic : IEnumerable
     {
         event DValid EventValid;
         SortedList<string, Patient> pList;
@@ -44,8 +44,8 @@ namespace ass_6
             }
             
 
-            Console.WriteLine(pList.Count);
-            Console.ReadKey();
+            //Console.WriteLine(pList.Count);
+            //Console.ReadKey();
             
             
             

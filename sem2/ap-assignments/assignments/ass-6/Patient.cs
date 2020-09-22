@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace ass_6
 {
-    class Patient
+    public class Patient
     {
         string id, name, contact, gender;
         //bool gender;
