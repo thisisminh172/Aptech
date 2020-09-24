@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ass_3
 {
-    class StudentPremium : Student
+    public class StudentPremium : Student
     {
         int markofObj, markofPrac;
         public int pMarkOfObj

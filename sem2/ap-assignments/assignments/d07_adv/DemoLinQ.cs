@@ -26,6 +26,7 @@ namespace d07_adv
             var x = from item in ds 
                     orderby item.co, item.price descending
                     select item;
+            //var y = x.Single();
             foreach(var i in x)
             {
                 Console.WriteLine("\t"+i);

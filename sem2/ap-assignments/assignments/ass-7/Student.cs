@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace ass_7
 {
-    class Student
+    public class Student
     {
         string id, name;
         int maths, english;
@@ -77,8 +77,73 @@ namespace ass_7
         {
             get
             {
-                return (float)(maths + english) / 2;
+                    return (float)(maths + english) / 2;
             }
+        }
+
+        public void print()
+        {
+            Console.WriteLine($"id: {id},name: {name},math: {maths},eng: {english},avg: {pAvg}");
+        }
+
+        public void accept()
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write("Student'id: ");
+                    pID = Console.ReadLine().Trim();
+                    break;
+                }catch(Exception e)
+                {
+                    Console.WriteLine($"Error: {e.Message}");
+                }
+            }
+            while (true)
+            {
+                try
+                {
+                    Console.Write("Student'name: ");
+                    pName = Console.ReadLine().Trim();
+                    break;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"Error: {e.Message}");
+                }
+            }
+            while (true)
+            {
+                try
+                {
+                    Console.Write("Math: ");
+                    pMath = int.Parse(Console.ReadLine().Trim());
+                    break;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"Error: {e.Message}");
+                }
+            }
+            while (true)
+            {
+                try
+                {
+                    Console.Write("English: ");
+                    pEnglish = int.Parse(Console.ReadLine().Trim());
+                    break;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"Error: {e.Message}");
+                }
+            }
+        }
+
+        public override string ToString()
+        {
+            return string.Format($"id: {id},name: {name},math: {maths},eng: {english},avg: {pAvg}");
         }
 
 

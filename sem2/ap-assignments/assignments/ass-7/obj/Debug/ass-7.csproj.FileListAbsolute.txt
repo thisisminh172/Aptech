@@ -5,3 +5,10 @@ C:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.csprojAssemblyRe
 C:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.csproj.CoreCompileInputs.cache
 C:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.exe
 C:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.pdb
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\bin\Debug\ass-7.exe.config
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\bin\Debug\ass-7.exe
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\bin\Debug\ass-7.pdb
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.csprojAssemblyReference.cache
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.csproj.CoreCompileInputs.cache
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.exe
+D:\Aptech\sem2\ap-assignments\assignments\ass-7\obj\Debug\ass-7.pdb
