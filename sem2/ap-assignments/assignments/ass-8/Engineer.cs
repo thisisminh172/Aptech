@@ -22,7 +22,7 @@ namespace ass_8
 
         public override void display()
         {
-            Console.WriteLine(this);
+            Console.WriteLine(this + $", actual salary: {CalcSalary()}");
         }
 
         public override void input()

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ass_8
 {
-    interface ICalc
+    public interface ICalc
     {
         int CalcSalary();
     }
