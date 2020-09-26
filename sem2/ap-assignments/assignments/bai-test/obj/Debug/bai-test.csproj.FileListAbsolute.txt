@@ -1,0 +1,7 @@
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\bin\Debug\bai-test.exe.config
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\bin\Debug\bai-test.exe
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\bin\Debug\bai-test.pdb
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\obj\Debug\bai-test.csprojAssemblyReference.cache
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\obj\Debug\bai-test.csproj.CoreCompileInputs.cache
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\obj\Debug\bai-test.exe
+C:\Aptech\sem2\ap-assignments\assignments\bai-test\obj\Debug\bai-test.pdb
