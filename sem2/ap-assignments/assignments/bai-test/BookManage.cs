@@ -52,7 +52,7 @@ namespace bai_test
                 {
                     Console.Write("is the book sale [1 is sale or 0 is not sale]: ");
                     string ans = Console.ReadLine().Trim();
-
+                    
                     book.pIsSale = ans=="1"?true:false;
                     break;
                 }
