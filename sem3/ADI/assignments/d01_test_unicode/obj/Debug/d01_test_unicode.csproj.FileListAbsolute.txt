@@ -1,0 +1,7 @@
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\bin\Debug\d01_test_unicode.exe.config
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\bin\Debug\d01_test_unicode.exe
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\bin\Debug\d01_test_unicode.pdb
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.csprojAssemblyReference.cache
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.exe
+C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.pdb
