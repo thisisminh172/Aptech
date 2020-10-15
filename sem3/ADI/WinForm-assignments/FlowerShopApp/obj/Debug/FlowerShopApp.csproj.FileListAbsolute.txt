@@ -1,0 +1,12 @@
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\bin\Debug\FlowerShopApp.exe.config
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\bin\Debug\FlowerShopApp.exe
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\bin\Debug\FlowerShopApp.pdb
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.csprojAssemblyReference.cache
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.Form1.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.frmClock.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.Properties.Resources.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.csproj.GenerateResource.cache
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.exe
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.pdb
+C:\Aptech\sem3\ADI\WinForm-assignments\FlowerShopApp\obj\Debug\FlowerShopApp.frmFlowers.resources

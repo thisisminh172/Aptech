@@ -1,0 +1,13 @@
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\bin\Debug\DemoWinForm1.exe
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\bin\Debug\DemoWinForm1.exe.config
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.csprojAssemblyReference.cache
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.ChangeColor.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.Form1.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.FrmInsert.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.Properties.Resources.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.frmShow.resources
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.csproj.GenerateResource.cache
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.exe
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\obj\Debug\DemoWinForm1.pdb
+C:\Aptech\sem3\ADI\WinForm-assignments\DemoWinForm1\bin\Debug\DemoWinForm1.pdb

@@ -1,0 +1,10 @@
+C:\Aptech\sem3\WFC\assignments\Calculator\bin\Debug\Calculator.exe.config
+C:\Aptech\sem3\WFC\assignments\Calculator\bin\Debug\Calculator.exe
+C:\Aptech\sem3\WFC\assignments\Calculator\bin\Debug\Calculator.pdb
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.exe
+C:\Aptech\sem3\WFC\assignments\Calculator\obj\Debug\Calculator.pdb
