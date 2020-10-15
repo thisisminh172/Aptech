@@ -5,3 +5,10 @@ C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.cspro
 C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.csproj.CoreCompileInputs.cache
 C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.exe
 C:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.pdb
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\bin\Debug\d01_test_unicode.exe.config
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\bin\Debug\d01_test_unicode.exe
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\bin\Debug\d01_test_unicode.pdb
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.csprojAssemblyReference.cache
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.csproj.CoreCompileInputs.cache
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.exe
+D:\Aptech\sem3\ADI\assignments\d01_test_unicode\obj\Debug\d01_test_unicode.pdb
