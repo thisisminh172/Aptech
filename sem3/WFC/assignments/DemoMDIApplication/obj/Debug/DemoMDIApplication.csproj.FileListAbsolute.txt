@@ -1,0 +1,14 @@
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\bin\Debug\DemoMDIApplication.exe.config
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\bin\Debug\DemoMDIApplication.exe
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\bin\Debug\DemoMDIApplication.pdb
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.csprojAssemblyReference.cache
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.Form1.resources
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.exe
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.pdb
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.ShowForm.resources
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.SearchForm.resources
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.LoginForm.resources
+C:\Aptech\sem3\WFC\assignments\DemoMDIApplication\obj\Debug\DemoMDIApplication.WelcomeForm.resources
