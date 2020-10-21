@@ -40,6 +40,7 @@ namespace bai_test
                         bm.findByIsSale();
                         break;
                     case "3":
+                        
                         foreach(Book item in bm)
                         {
                             item.bookInfo();

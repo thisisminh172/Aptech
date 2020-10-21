@@ -1,0 +1,10 @@
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\bin\Debug\DemoDialogBox.exe.config
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\bin\Debug\DemoDialogBox.exe
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\bin\Debug\DemoDialogBox.pdb
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.Form1.resources
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.exe
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.pdb
+C:\Aptech\sem3\WFC\assignments\DemoDialogBox\obj\Debug\DemoDialogBox.csprojAssemblyReference.cache
