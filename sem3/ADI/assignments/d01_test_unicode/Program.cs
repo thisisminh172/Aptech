@@ -10,12 +10,13 @@ namespace d01_test_unicode
     {
         static void Main(string[] args)
         {
-            Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
+
+            Console.InputEncoding = Encoding.Unicode;
             Console.ForegroundColor = ConsoleColor.Green;
             string fname;
             Console.Write("Nhập tên của bạn: ");
-            fname = Console.ReadLine();
+            fname = Console.ReadLine().Trim();
             Console.WriteLine("Tên của bạn là: "+fname);
             Console.ReadKey();
 
