@@ -1,0 +1,15 @@
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\bin\Debug\M5SaoMaiBookStore.exe.config
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\bin\Debug\M5SaoMaiBookStore.exe
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\bin\Debug\M5SaoMaiBookStore.pdb
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.csprojAssemblyReference.cache
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.Form1.resources
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.exe
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.pdb
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.InsertFrm.resources
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.ShowAllFrm.resources
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.AboutFrm.resources
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.SearchFrm.resources
+C:\Aptech\sem3\WFC\assignments\M5SaoMaiBookStore\obj\Debug\M5SaoMaiBookStore.LoginFrm.resources

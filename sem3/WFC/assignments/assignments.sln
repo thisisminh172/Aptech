@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCBank", "ABCBank\ABCBank.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaiGonAudo", "SaiGonAudo\SaiGonAudo.csproj", "{0B8A8752-DC3C-4ADB-B5E1-CEC0DD081FDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M5SaoMaiBookStore", "M5SaoMaiBookStore\M5SaoMaiBookStore.csproj", "{C4283AA2-29D8-4DE2-AF72-E0ACA8D29D28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{0B8A8752-DC3C-4ADB-B5E1-CEC0DD081FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B8A8752-DC3C-4ADB-B5E1-CEC0DD081FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B8A8752-DC3C-4ADB-B5E1-CEC0DD081FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4283AA2-29D8-4DE2-AF72-E0ACA8D29D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4283AA2-29D8-4DE2-AF72-E0ACA8D29D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4283AA2-29D8-4DE2-AF72-E0ACA8D29D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4283AA2-29D8-4DE2-AF72-E0ACA8D29D28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
