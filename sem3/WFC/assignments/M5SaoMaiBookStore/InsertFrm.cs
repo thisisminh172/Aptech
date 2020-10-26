@@ -31,6 +31,8 @@ namespace M5SaoMaiBookStore
             cmd.Parameters.AddWithValue("@Title", txtTitle.Text);
             cmd.Parameters.AddWithValue("@Price", txtPrice.Text);
             cmd.Parameters.AddWithValue("@Author", txtAuthor.Text);
+
+            //thuc hien lenh
             cmd.ExecuteNonQuery();
             MessageBox.Show("insert ok!!!!");
             con.Close();

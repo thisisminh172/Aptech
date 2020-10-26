@@ -40,6 +40,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnInsert = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -189,5 +190,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnInsert;
         private System.Windows.Forms.Button btnReset;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
