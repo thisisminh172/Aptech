@@ -1,0 +1,16 @@
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\M6BindingMobieApp.exe.config
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\M6BindingMobieApp.exe
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\M6BindingMobieApp.pdb
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\EntityFramework.dll
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\EntityFramework.xml
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.csprojAssemblyReference.cache
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.Form1.resources
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.InsertFrm.resources
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.csproj.CopyComplete
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.exe
+C:\Aptech\sem3\WFC\assignments\M6BindingMobieApp\obj\Debug\M6BindingMobieApp.pdb

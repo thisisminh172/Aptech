@@ -1,0 +1,10 @@
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\bin\Debug\M6DataBindingDemo.exe.config
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\bin\Debug\M6DataBindingDemo.exe
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\bin\Debug\M6DataBindingDemo.pdb
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.csprojAssemblyReference.cache
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.Form1.resources
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.exe
+C:\Aptech\sem3\WFC\assignments\M6DataBindingDemo\obj\Debug\M6DataBindingDemo.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CellStoreModelStoreContainer" CdmEntityContainer="CellStoreEntities1">
+    <EntitySetMapping Name="CellPhones">
+      <EntityTypeMapping TypeName="CellStoreModel.CellPhone">
+        <MappingFragment StoreEntitySet="CellPhone">
+          <ScalarProperty Name="cellCode" ColumnName="cellCode" />
+          <ScalarProperty Name="cellName" ColumnName="cellName" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="supplier" ColumnName="supplier" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

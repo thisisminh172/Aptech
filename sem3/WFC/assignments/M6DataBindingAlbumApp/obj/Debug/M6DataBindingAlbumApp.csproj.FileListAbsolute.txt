@@ -1,0 +1,11 @@
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\bin\Debug\M6DataBindingAlbumApp.exe.config
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\bin\Debug\M6DataBindingAlbumApp.exe
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\bin\Debug\M6DataBindingAlbumApp.pdb
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.Form1.resources
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.Properties.Resources.resources
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.csproj.GenerateResource.cache
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.csproj.CoreCompileInputs.cache
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.exe
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.pdb
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.csprojAssemblyReference.cache
+C:\Aptech\sem3\WFC\assignments\M6DataBindingAlbumApp\obj\Debug\M6DataBindingAlbumApp.Detail.resources
