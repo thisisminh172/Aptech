@@ -1,4 +1,4 @@
-﻿namespace practice01
+﻿namespace practice02
 {
     partial class Form1
     {
