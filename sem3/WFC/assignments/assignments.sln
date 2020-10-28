@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M6BindingMobieApp", "M6Bind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M6ADONETFILM", "M6ADONETFILM\M6ADONETFILM.csproj", "{578F7403-B0EF-49B8-97E7-FA9998C05314}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice02", "practice02\practice02.csproj", "{4DD4A678-7ABF-4E0B-8042-5597DC38CDBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{578F7403-B0EF-49B8-97E7-FA9998C05314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{578F7403-B0EF-49B8-97E7-FA9998C05314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{578F7403-B0EF-49B8-97E7-FA9998C05314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD4A678-7ABF-4E0B-8042-5597DC38CDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD4A678-7ABF-4E0B-8042-5597DC38CDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD4A678-7ABF-4E0B-8042-5597DC38CDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD4A678-7ABF-4E0B-8042-5597DC38CDBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\Aptech\sem3\WFC\assignments\practice02\bin\Debug\practice02.exe.config
+D:\Aptech\sem3\WFC\assignments\practice02\bin\Debug\practice02.exe
+D:\Aptech\sem3\WFC\assignments\practice02\bin\Debug\practice02.pdb
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.csprojAssemblyReference.cache
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.Form1.resources
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.LoginFrm.resources
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.Properties.Resources.resources
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.csproj.GenerateResource.cache
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.csproj.CoreCompileInputs.cache
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.exe
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.pdb
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.AddCategoryFrm.resources
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.AddItemFrm.resources
+D:\Aptech\sem3\WFC\assignments\practice02\obj\Debug\practice02.UpdateStockFrm.resources
