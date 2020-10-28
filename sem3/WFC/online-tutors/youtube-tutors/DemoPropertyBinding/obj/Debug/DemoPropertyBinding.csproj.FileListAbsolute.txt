@@ -1,0 +1,10 @@
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\bin\Debug\DemoPropertyBinding.exe.config
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\bin\Debug\DemoPropertyBinding.exe
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\bin\Debug\DemoPropertyBinding.pdb
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.csprojAssemblyReference.cache
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.Form1.resources
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.Properties.Resources.resources
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.csproj.GenerateResource.cache
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.csproj.CoreCompileInputs.cache
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.exe
+D:\Aptech\sem3\WFC\online-tutors\youtube-tutors\DemoPropertyBinding\obj\Debug\DemoPropertyBinding.pdb
