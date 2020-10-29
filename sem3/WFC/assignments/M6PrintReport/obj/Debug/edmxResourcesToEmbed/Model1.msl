@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SaoMaiBookStoreModelStoreContainer" CdmEntityContainer="SaoMaiBookStoreEntities">
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="SaoMaiBookStoreModel.Book">
+        <MappingFragment StoreEntitySet="Book">
+          <ScalarProperty Name="BookCode" ColumnName="BookCode" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
