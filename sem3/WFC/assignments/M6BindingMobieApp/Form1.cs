@@ -27,6 +27,8 @@ namespace M6BindingMobieApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'CellStoreDataSet.CellPhone' table. You can move, or remove it, as needed.
+            this.CellPhoneTableAdapter.Fill(this.CellStoreDataSet.CellPhone);
             LoadData();
         }
 
@@ -83,6 +85,12 @@ namespace M6BindingMobieApp
             db.SaveChanges();
             MessageBox.Show("Update thanh cong");
             LoadData();
+        }
+
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            Form f = new ReportFrm();
+            f.Show();
         }
     }
 }
